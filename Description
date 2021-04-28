@@ -1,0 +1,5 @@
+Objectives:
+1. data preprocessing - imputation, handling missing values
+2. data standardization (normalising the data)
+3. Using ggplot in R to analyse the dataset "worldpop"
+4. Drawing conclusions
